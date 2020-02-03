@@ -1,0 +1,10 @@
+{
+    "dartsass.includePath": [
+        "./src/sass/"
+    ],
+
+    "dartsass.targetDirectory": "./public/inc/css",
+    "dartsass.targetMinifiedDirectory": "./public/inc/css/min",
+
+    "liveServer.settings.root": "/public"
+}
